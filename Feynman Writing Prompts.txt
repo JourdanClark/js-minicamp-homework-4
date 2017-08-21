@@ -1,0 +1,17 @@
+Callback Functions
+	Callback functions are passed into a method as an argument and are ran by the method. It's generally used in javascript to run things asynchonously as to not hold up the thread waiting for another process to finish.
+
+Closure
+	Being able to reference a specific instance of local variables in an enclosing function
+
+arguments
+	Arguments are data that has been passed into a method or function's parameters.
+
+Recursion
+	Using the function you're already in.
+
+prototype
+	A prototype defines the standard properties an object will have upon its creation.
+
+Constructors
+	Constructors have their names capatalized by convention and appear to be slightly similar to classes in other languages.
